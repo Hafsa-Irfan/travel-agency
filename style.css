@@ -1,0 +1,24 @@
+.logo{
+    width: 130px;
+    height: 60px;
+    position: relative;
+}
+
+.carousel-caption{
+    margin-bottom: 20%;
+    font-family:  var(heading-font-family);;
+}
+
+.navbar{
+    padding-right: 10px;
+    justify-content: space-around;
+}
+
+.button{
+    display: flex;
+    list-style: none;
+}
+
+.button img{
+    width: 20px;
+}
